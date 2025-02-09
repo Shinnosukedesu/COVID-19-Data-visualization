@@ -115,13 +115,11 @@ Recovery Rate = SUM('CoronaVirus Data'[Recovered Daily])
 
 The dataset for this dashboard is provided in **CSV** and **Excel (.xl)** formats. You can import the data into Power BI to recreate or modify the dashboard as needed.
 
-- **Download the dataset here**: [Insert CSV/Excel file link]
-
 ### **Access the Dashboard:**
 
 - **Power BI Service Dashboard Link**:  
    You can interact with the published **COVID-19 Global Analysis Dashboard** by clicking on the following link:  
-   [Insert Power BI link here]
+   (https://1drv.ms/u/c/48e06ba98674206f/EaxZfg1EQ1hNoZRsAJD9EE8BuqaT_c9tdqd7tKgqOB58qg?e=JdIkX7)
 
 - **Power BI File (.pbix)**:  
    You can also download the file under the extension .pbix for real time interaction and editing
