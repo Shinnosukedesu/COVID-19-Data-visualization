@@ -124,6 +124,10 @@ The dataset for this dashboard is provided in **CSV** and **Excel (.xl)** format
 - **Power BI File (.pbix)**:  
    You can also download the file under the extension .pbix for real time interaction and editing
 
+
+![dashboard](https://github.com/user-attachments/assets/5536467a-a50a-4de4-9b3d-610ad3a99004)
+
+
 ---
 
 ## **Conclusion**
